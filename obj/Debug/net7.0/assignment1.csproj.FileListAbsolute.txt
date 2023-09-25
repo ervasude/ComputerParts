@@ -1,0 +1,15 @@
+/Users/ervasude/Projects/moodle/assignment1/bin/Debug/net7.0/assignment1
+/Users/ervasude/Projects/moodle/assignment1/bin/Debug/net7.0/assignment1.deps.json
+/Users/ervasude/Projects/moodle/assignment1/bin/Debug/net7.0/assignment1.runtimeconfig.json
+/Users/ervasude/Projects/moodle/assignment1/bin/Debug/net7.0/assignment1.dll
+/Users/ervasude/Projects/moodle/assignment1/bin/Debug/net7.0/assignment1.pdb
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.csproj.AssemblyReference.cache
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.AssemblyInfoInputs.cache
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.AssemblyInfo.cs
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.csproj.CoreCompileInputs.cache
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.dll
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/refint/assignment1.dll
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.pdb
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/assignment1.genruntimeconfig.cache
+/Users/ervasude/Projects/moodle/assignment1/obj/Debug/net7.0/ref/assignment1.dll
